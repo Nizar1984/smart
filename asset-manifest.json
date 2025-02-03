@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smart/static/css/main.f4e438a5.css",
+    "main.js": "/smart/static/js/main.cc09e6f0.js",
+    "index.html": "/smart/index.html",
+    "main.f4e438a5.css.map": "/smart/static/css/main.f4e438a5.css.map",
+    "main.cc09e6f0.js.map": "/smart/static/js/main.cc09e6f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4e438a5.css",
+    "static/js/main.cc09e6f0.js"
+  ]
+}
