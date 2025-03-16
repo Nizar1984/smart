@@ -16,7 +16,7 @@ const docData = [
 	{
 		docName: 'Emirates ID',
 		docOwner: 'Nizar',
-		docExp: '06-03-2025',
+		docExp: '05-03-2027',
 		notifyBefore: 15,
 		category: 'Employee',
 		docloc: './pizzas/id.png',
@@ -26,7 +26,7 @@ const docData = [
 	{
 		docName: 'Residence',
 		docOwner: 'Nizar',
-		docExp: '06-03-2025',
+		docExp: '05-03-2027',
 		notifyBefore: 15,
 		category: 'Employee',
 		docloc: './pizzas/residence.png',
